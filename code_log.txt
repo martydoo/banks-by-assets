@@ -1,0 +1,8 @@
+2024-Oct-22-17:27:53 : Preliminaries complete. Initiating ETL process
+2024-Oct-22-17:27:53 : Data extraction complete. Initiating transformation process
+2024-Oct-22-17:27:53 : Data transformation complete. Initiating loading process
+2024-Oct-22-17:27:53 : Data saved to CSV file
+2024-Oct-22-17:27:53 : SQL connection initiated
+2024-Oct-22-17:27:53 : Data loaded to database as a table. Executing queries
+2024-Oct-22-17:27:53 : Process complete
+2024-Oct-22-17:27:53 : Server connection closed
